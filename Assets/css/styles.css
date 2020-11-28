@@ -1,0 +1,15 @@
+.navbar-brand {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-img-top{
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+.divIco img{
+    width: 30px;
+    margin-left: 10px;
+    margin-top: 4px;
+}
